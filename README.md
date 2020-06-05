@@ -1,4 +1,4 @@
-Classwork
-Lesson 5
-29.11.2019
+Classwork \n
+Lesson 5 \n
+29.11.2019 \n
 Игра "Магическое число"
